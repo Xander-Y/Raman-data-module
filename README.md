@@ -4,3 +4,5 @@ Hi, guys.You can simplify your tasks by using this module.It provided serveral f
 1. 
 2. 
 3. 
+
+More usage will be supplement later.
